@@ -1,0 +1,10 @@
+C:\Users\utente\Desktop\Titan 2\Titan 2\bin\Release\Titan 2.exe.config
+C:\Users\utente\Desktop\Titan 2\Titan 2\bin\Release\Titan 2.exe
+C:\Users\utente\Desktop\Titan 2\Titan 2\bin\Release\Anarchy.dll
+C:\Users\utente\Desktop\Titan 2\Titan 2\bin\Release\Leaf.xNet.dll
+C:\Users\utente\Desktop\Titan 2\Titan 2\bin\Release\Newtonsoft.Json.dll
+C:\Users\utente\Desktop\Titan 2\Titan 2\bin\Release\websocket-sharp.dll
+C:\Users\utente\Desktop\Titan 2\Titan 2\obj\Release\Titan 2.csproj.CoreCompileInputs.cache
+C:\Users\utente\Desktop\Titan 2\Titan 2\obj\Release\Titan 2.csproj.CopyComplete
+C:\Users\utente\Desktop\Titan 2\Titan 2\obj\Release\Titan 2.exe
+C:\Users\utente\Desktop\Titan 2\Titan 2\obj\Release\Titan 2.csproj.AssemblyReference.cache
